@@ -1,0 +1,15 @@
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\bin\Debug\molbox.exe.config
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\bin\Debug\molbox.exe
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\bin\Debug\molbox.pdb
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\MainWindow.baml
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\Styles.baml
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\App.baml
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\MainWindow.g.cs
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\App.g.cs
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\molbox_MarkupCompile.cache
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\molbox.g.resources
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\molbox.Properties.Resources.resources
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\molbox.csproj.GenerateResource.Cache
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\molbox.exe
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\molbox.pdb
+C:\Users\michael.weaver\Documents\Visual Studio 2012\Projects\molbox\molbox\obj\Debug\molbox.csprojResolveAssemblyReference.cache
